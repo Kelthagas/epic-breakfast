@@ -1,24 +1,5 @@
-# README
+# Epic Breakfast
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This App is used as an introduction for people who are looking to dive into programming and want to learn how to code in Ruby as well as Ruby on Rails.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Rails version: 5.1.4
